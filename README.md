@@ -1,5 +1,7 @@
 Diário Pessoal em JavaScript
 
+dupla: Mikaella Suyane e Ramara Ludmylla
+
 Descrição:
 Este é um diário pessoal desenvolvido em JavaScript que permite ao usuário registrar, visualizar e gerar relatórios sobre suas atividades diárias.
 
